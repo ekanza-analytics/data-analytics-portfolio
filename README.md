@@ -1,7 +1,7 @@
 # data-analytics-portfolio
-Portfolio de projets en Data Analysis (Python, Excel, Power Query, Power Pivot, VBA, R,SQL,Power BI). Exploration de données, visualisation, machine learning et modélisation.
+Portfolio de projets en Data Analysis (Python, Excel, Power Query, Power Pivot, VBA, R,SQL,Power BI). Exploration de données, visualisation, machine learning et modélisation démontrant la capacité à transformer des données brutes en insights exploitables pour la prise de décision basée sur les données.
 
-This portfolio showcases data analysis projects using Python, Excel, and R, demonstrating the ability to transform raw data into actionable insights for data-driven decision-making.
+
 
 🛠️ Skills by Tool
 
